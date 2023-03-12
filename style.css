@@ -136,6 +136,23 @@ nav .fa{
 }
 
 
+@media only screen and (max-width: 480px){
+    .text-box{
+        width: 70%;
+    }
+    .text-box h1{
+        margin-top: 120px;
+        font-size: 22px;
+    }
+    .text-box p{
+        font-size: 7px;
+    }
+    .nav-links ul li{
+        display: block;
+    }
+}   
+
+
 /* --------------------------- */
 
 
