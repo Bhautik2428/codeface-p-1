@@ -260,7 +260,7 @@ h3{
     text-align: left;
 }
 
-.facilities-col img{
+.facilities-col iframe{
     width: 100%;
     border-radius: 10px;
 }
@@ -363,5 +363,5 @@ h3{
     color: #f44336;
     margin: 0 13px;
     cursor: pointer;
-    padding: 18px 0;
+    padding: 10px;
 }
